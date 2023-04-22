@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="3" parallel="tests" name="Failed suite [Learning TestNG]" guice-stage="DEVELOPMENT">
+  <parameter name="URL" value="qaclickacademy.com"/>
+  <listeners>
+    <listener class-name="com.Basics.Listeners"/>
+  </listeners>
+  <test thread-count="3" parallel="tests" name="Bike Loan(failed)">
+    <classes>
+      <class name="com.Basics.BikeLoan">
+        <methods>
+          <include name="APILogoutBikeLoan"/>
+          <include name="beforeEvery"/>
+          <include name="afterEvery"/>
+        </methods>
+      </class> <!-- com.Basics.BikeLoan -->
+    </classes>
+  </test> <!-- Bike Loan(failed) -->
+</suite> <!-- Failed suite [Learning TestNG] -->

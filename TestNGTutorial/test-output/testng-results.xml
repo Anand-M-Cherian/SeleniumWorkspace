@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="3" total="14" passed="10" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-23T08:40:53 IST" name="Learning TestNG" finished-at="2022-07-23T08:40:54 IST" duration-ms="333">
+    <groups>
+      <group name="smoke">
+        <method signature="RunTest.Demo(java.lang.String, java.lang.String)[pri:0, instance:com.Basics.RunTest@4b9e255]" name="Demo" class="com.Basics.RunTest"/>
+        <method signature="Test2.Zen()[pri:0, instance:com.Basics.Test2@5e57643e]" name="Zen" class="com.Basics.Test2"/>
+        <method signature="BikeLoan.APISignInBikeLoan()[pri:0, instance:com.Basics.BikeLoan@1445d7f]" name="APISignInBikeLoan" class="com.Basics.BikeLoan"/>
+      </group> <!-- smoke -->
+    </groups>
+    <test started-at="2022-07-23T08:40:53 IST" name="Bike Loan" finished-at="2022-07-23T08:40:54 IST" duration-ms="324">
+      <class name="com.Basics.PreAndPost">
+        <test-method is-config="true" signature="PreSuite()[pri:0, instance:com.Basics.PreAndPost@4f51b3e0]" started-at="2022-07-23T08:40:53 IST" name="PreSuite" finished-at="2022-07-23T08:40:53 IST" duration-ms="20" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PreSuite -->
+        <test-method is-config="true" signature="PostSuite()[pri:0, instance:com.Basics.PreAndPost@4f51b3e0]" started-at="2022-07-23T08:40:54 IST" name="PostSuite" finished-at="2022-07-23T08:40:54 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PostSuite -->
+      </class> <!-- com.Basics.PreAndPost -->
+      <class name="com.Basics.BikeLoan">
+        <test-method is-config="true" signature="beforeEvery()[pri:0, instance:com.Basics.BikeLoan@1445d7f]" started-at="2022-07-23T08:40:54 IST" name="beforeEvery" finished-at="2022-07-23T08:40:54 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeEvery -->
+        <test-method signature="APILogoutBikeLoan()[pri:0, instance:com.Basics.BikeLoan@1445d7f]" started-at="2022-07-23T08:40:54 IST" name="APILogoutBikeLoan" finished-at="2022-07-23T08:40:54 IST" duration-ms="9" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+at org.testng.Assert.fail(Assert.java:97)
+at org.testng.Assert.failNotEquals(Assert.java:969)
+at org.testng.Assert.assertTrue(Assert.java:43)
+at org.testng.Assert.assertTrue(Assert.java:53)
+at com.Basics.BikeLoan.APILogoutBikeLoan(BikeLoan.java:35)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:134)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:597)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:816)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:766)
+at org.testng.TestRunner.run(TestRunner.java:587)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:384)
+at org.testng.SuiteRunner.access$000(SuiteRunner.java:28)
+at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:425)
+at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:68)
+at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+at java.base/java.lang.Thread.run(Thread.java:833)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- APILogoutBikeLoan -->
+        <test-method is-config="true" signature="afterEvery()[pri:0, instance:com.Basics.BikeLoan@1445d7f]" started-at="2022-07-23T08:40:54 IST" name="afterEvery" finished-at="2022-07-23T08:40:54 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEvery -->
+        <test-method is-config="true" signature="beforeEvery()[pri:0, instance:com.Basics.BikeLoan@1445d7f]" started-at="2022-07-23T08:40:54 IST" name="beforeEvery" finished-at="2022-07-23T08:40:54 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeEvery -->
+        <test-method signature="MobileLoginBikeLoan()[pri:0, instance:com.Basics.BikeLoan@1445d7f]" started-at="2022-07-23T08:40:54 IST" name="MobileLoginBikeLoan" finished-at="2022-07-23T08:40:54 IST" duration-ms="57" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobileLoginBikeLoan -->
+        <test-method is-config="true" signature="afterEvery()[pri:0, instance:com.Basics.BikeLoan@1445d7f]" started-at="2022-07-23T08:40:54 IST" name="afterEvery" finished-at="2022-07-23T08:40:54 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEvery -->
+        <test-method is-config="true" signature="beforeEvery()[pri:0, instance:com.Basics.BikeLoan@1445d7f]" started-at="2022-07-23T08:40:54 IST" name="beforeEvery" finished-at="2022-07-23T08:40:54 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeEvery -->
+        <test-method signature="APISignInBikeLoan()[pri:0, instance:com.Basics.BikeLoan@1445d7f]" started-at="2022-07-23T08:40:54 IST" name="APISignInBikeLoan" finished-at="2022-07-23T08:40:54 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- APISignInBikeLoan -->
+        <test-method is-config="true" signature="afterEvery()[pri:0, instance:com.Basics.BikeLoan@1445d7f]" started-at="2022-07-23T08:40:54 IST" name="afterEvery" finished-at="2022-07-23T08:40:54 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEvery -->
+        <test-method is-config="true" signature="beforeEvery()[pri:0, instance:com.Basics.BikeLoan@1445d7f]" started-at="2022-07-23T08:40:54 IST" name="beforeEvery" finished-at="2022-07-23T08:40:54 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeEvery -->
+        <test-method signature="APISignOutBikeLoan(java.lang.String, java.lang.String)[pri:0, instance:com.Basics.BikeLoan@1445d7f]" started-at="2022-07-23T08:40:54 IST" name="APISignOutBikeLoan" data-provider="getData" finished-at="2022-07-23T08:40:54 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- APISignOutBikeLoan -->
+        <test-method is-config="true" signature="afterEvery()[pri:0, instance:com.Basics.BikeLoan@1445d7f]" started-at="2022-07-23T08:40:54 IST" name="afterEvery" finished-at="2022-07-23T08:40:54 IST" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEvery -->
+        <test-method is-config="true" signature="beforeEvery()[pri:0, instance:com.Basics.BikeLoan@1445d7f]" started-at="2022-07-23T08:40:54 IST" name="beforeEvery" finished-at="2022-07-23T08:40:54 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeEvery -->
+        <test-method signature="APISignOutBikeLoan(java.lang.String, java.lang.String)[pri:0, instance:com.Basics.BikeLoan@1445d7f]" started-at="2022-07-23T08:40:54 IST" name="APISignOutBikeLoan" data-provider="getData" finished-at="2022-07-23T08:40:54 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- APISignOutBikeLoan -->
+        <test-method is-config="true" signature="afterEvery()[pri:0, instance:com.Basics.BikeLoan@1445d7f]" started-at="2022-07-23T08:40:54 IST" name="afterEvery" finished-at="2022-07-23T08:40:54 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEvery -->
+        <test-method is-config="true" signature="beforeEvery()[pri:0, instance:com.Basics.BikeLoan@1445d7f]" started-at="2022-07-23T08:40:54 IST" name="beforeEvery" finished-at="2022-07-23T08:40:54 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeEvery -->
+        <test-method signature="APISignOutBikeLoan(java.lang.String, java.lang.String)[pri:0, instance:com.Basics.BikeLoan@1445d7f]" started-at="2022-07-23T08:40:54 IST" name="APISignOutBikeLoan" data-provider="getData" finished-at="2022-07-23T08:40:54 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- APISignOutBikeLoan -->
+        <test-method is-config="true" signature="afterEvery()[pri:0, instance:com.Basics.BikeLoan@1445d7f]" started-at="2022-07-23T08:40:54 IST" name="afterEvery" finished-at="2022-07-23T08:40:54 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEvery -->
+        <test-method is-config="true" signature="beforeEvery()[pri:0, instance:com.Basics.BikeLoan@1445d7f]" started-at="2022-07-23T08:40:54 IST" name="beforeEvery" finished-at="2022-07-23T08:40:54 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeEvery -->
+        <test-method signature="APILoginBikeLoan()[pri:0, instance:com.Basics.BikeLoan@1445d7f]" started-at="2022-07-23T08:40:54 IST" name="APILoginBikeLoan" finished-at="2022-07-23T08:40:54 IST" depends-on-methods="com.Basics.BikeLoan.MobileLoginBikeLoan" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- APILoginBikeLoan -->
+        <test-method is-config="true" signature="afterEvery()[pri:0, instance:com.Basics.BikeLoan@1445d7f]" started-at="2022-07-23T08:40:54 IST" name="afterEvery" finished-at="2022-07-23T08:40:54 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEvery -->
+      </class> <!-- com.Basics.BikeLoan -->
+    </test> <!-- Bike Loan -->
+    <test started-at="2022-07-23T08:40:53 IST" name="Car Loan" finished-at="2022-07-23T08:40:54 IST" duration-ms="143">
+      <class name="com.Basics.CarLoan">
+        <test-method is-config="true" signature="BeforeClass()[pri:0, instance:com.Basics.CarLoan@d6da883]" started-at="2022-07-23T08:40:53 IST" name="BeforeClass" finished-at="2022-07-23T08:40:53 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeClass -->
+        <test-method signature="APILoginCarLoan(java.lang.String)[pri:0, instance:com.Basics.CarLoan@d6da883]" started-at="2022-07-23T08:40:54 IST" name="APILoginCarLoan" finished-at="2022-07-23T08:40:54 IST" duration-ms="13" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[qaclickacademy.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- APILoginCarLoan -->
+        <test-method signature="MobileLoginCarLoan()[pri:0, instance:com.Basics.CarLoan@d6da883]" started-at="2022-07-23T08:40:54 IST" name="MobileLoginCarLoan" finished-at="2022-07-23T08:40:54 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobileLoginCarLoan -->
+        <test-method is-config="true" signature="AfterClass()[pri:0, instance:com.Basics.CarLoan@d6da883]" started-at="2022-07-23T08:40:54 IST" name="AfterClass" finished-at="2022-07-23T08:40:54 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterClass -->
+      </class> <!-- com.Basics.CarLoan -->
+    </test> <!-- Car Loan -->
+    <test started-at="2022-07-23T08:40:53 IST" name="Basics of TestNG" finished-at="2022-07-23T08:40:54 IST" duration-ms="144">
+      <class name="com.Basics.PreAndPost">
+        <test-method is-config="true" signature="PreTest()[pri:0, instance:com.Basics.PreAndPost@4f51b3e0]" started-at="2022-07-23T08:40:53 IST" name="PreTest" finished-at="2022-07-23T08:40:53 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PreTest -->
+        <test-method is-config="true" signature="PostTest()[pri:0, instance:com.Basics.PreAndPost@4f51b3e0]" started-at="2022-07-23T08:40:54 IST" name="PostTest" finished-at="2022-07-23T08:40:54 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PostTest -->
+      </class> <!-- com.Basics.PreAndPost -->
+      <class name="com.Basics.Test2">
+        <test-method signature="Zen()[pri:0, instance:com.Basics.Test2@5e57643e]" started-at="2022-07-23T08:40:54 IST" name="Zen" finished-at="2022-07-23T08:40:54 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Zen -->
+      </class> <!-- com.Basics.Test2 -->
+      <class name="com.Basics.RunTest">
+        <test-method signature="Demo(java.lang.String, java.lang.String)[pri:0, instance:com.Basics.RunTest@4b9e255]" started-at="2022-07-23T08:40:54 IST" name="Demo" finished-at="2022-07-23T08:40:54 IST" duration-ms="5" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[basics.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12345]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Demo -->
+      </class> <!-- com.Basics.RunTest -->
+    </test> <!-- Basics of TestNG -->
+  </suite> <!-- Learning TestNG -->
+</testng-results>

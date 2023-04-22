@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<!--Use groups tag to run only the tests that client asks to run on daily basis-->
+<!--can use exclude also-->
+
+<!--depndsOn - to put inter dependency for test cases-->
+
+<!--enabled - true/false-->
+
+<!--timeOut - wait until this time before you fail the test case-->
+
+<suite name="Smoke Testing">
+
+    <groups>
+
+        <run>
+            <exclude name="smoke"/>
+        </run>
+
+    </groups>
+
+    <test name="Basics of TestNG">
+
+        <classes>
+
+            <class name="com.Basics.RunTest"/>
+
+            <class name="com.Basics.Test2"/>
+
+            <class name="com.Basics.PreAndPost"/>
+
+            <class name="com.Basics.CarLoan"/>
+
+            <class name="com.Basics.BikeLoan"/>
+
+        </classes>
+
+    </test>
+
+</suite>

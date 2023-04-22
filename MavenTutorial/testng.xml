@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/anand/Documents/Selenium Webdriver/SeleniumEclipseWorkspace/MavenTutorial">
+        <classes>
+            <class name="AutomationTesting.AppiumTest">
+                <methods>
+                    <include name="openApp"/>
+                    <include name="closeApp"/>
+                </methods>
+            </class>
+            <class name="AutomationTesting.RestAssuredTest">
+                <methods>
+                    <include name="sendRequest"/>
+                    <include name="recieveRequest"/>
+                </methods>
+            </class>
+            <class name="AutomationTesting.SeleniumTest">
+                <methods>
+                    <include name="screenshot"/>
+                    <!--include name="openBrowser"/-->
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,7 @@
+13:24:52.255 [main] DEBUG com.Logging.Alpha.AlphaDemo - I am now debugging
+13:24:52.278 [main] INFO  com.Logging.Alpha.AlphaDemo - For you information
+13:24:52.278 [main] ERROR com.Logging.Alpha.AlphaDemo - Not as expected
+13:24:52.279 [main] FATAL com.Logging.Alpha.AlphaDemo - Critical error
+13:25:18.811 [main] DEBUG com.Logging.Alpha.AlphaDemo - I am now debugging
+13:25:18.817 [main] INFO  com.Logging.Alpha.AlphaDemo - For you information
+13:25:18.817 [main] ERROR com.Logging.Alpha.AlphaDemo - Not as expected

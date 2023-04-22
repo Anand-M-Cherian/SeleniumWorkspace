@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<!--XML file should be created in project level-->
+<!--Modularize tests and trigger them accordingly-->
+<!--Test Suite > Test Folder (Shell) > Test -->
+<!--Use include and exclude according to business requirement-->
+<!--Use Regex to address similarly named test cases-->
+
+<!--Use parameterization to avoid hardcoding global variable values and instead store them in a centralized file-->
+<!--Parameterization can be in suite level / test folder level-->
+<!--Put Parameters annotation over the tests where you want this value to come-->
+<!--Parameters at the test folder level overrides the parameters at suite level if they have the same name-->
+
+<!--Listeners to perform actions according to test case outcomes-->
+
+<!--Run tests parallel to improve execution time-->
+<!--In Appium won't make much sense as we need multiple devices for the same, hence usually grid is preferred-->
+<!--If defined in suite level, will run multiple test folders and so on-->
+
+<!--View testNG reports in test-output folder in the path of index.html file-->
+<!--If test-output folder is missing, go to listeners tab in edit configurations and enable
+    "use default reports"-->
+
+<suite name="Learning TestNG" parallel="tests" thread-count="3">
+
+    <listeners>
+        <listener class-name="com.Basics.Listeners"/>
+    </listeners>
+
+    <parameter name="URL" value="qaclickacademy.com"/>
+
+    <test name="Basics of TestNG">
+
+        <parameter name="URL" value="basics.com"/>
+
+        <parameter name="key" value="12345"/>
+
+        <classes>
+
+            <class name="com.Basics.RunTest">
+                <methods>
+                    <include name="Demo"/>
+                    <include name="SecondTest"/>
+                </methods>
+            </class>
+
+            <class name="com.Basics.Test2">
+                <methods>
+                    <include name="Zen"/>
+                </methods>
+            </class>
+
+            <class name="com.Basics.PreAndPost"/>
+
+        </classes>
+
+    </test>
+
+    <test name="Car Loan">
+
+        <classes>
+
+            <class name="com.Basics.CarLoan">
+                <methods>
+                    <exclude name="WebLoginCarLoan"/>
+                </methods>
+            </class>
+
+        </classes>
+
+    </test>
+
+    <test name="Bike Loan">
+
+        <classes>
+
+            <class name="com.Basics.BikeLoan">
+                <methods>
+                    <include name="API.*"/>
+                    <include name="MobileLoginBikeLoan"/>
+                </methods>
+            </class>
+
+        </classes>
+
+    </test>
+</suite>

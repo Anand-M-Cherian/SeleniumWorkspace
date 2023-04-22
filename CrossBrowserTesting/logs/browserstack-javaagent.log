@@ -1,0 +1,354 @@
+16:53:04.167 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+16:53:04.185 [main] INFO  c.b.config.BrowserStackConfig - parallelsPerPlatform was not defined and has been set to 1 (Default)
+16:53:04.186 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+16:53:09.721 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:53:09.728 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:53:09.731 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:53:09.732 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:53:09.733 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:53:09.733 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:53:09.734 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:53:09.734 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:53:09.735 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:53:09.735 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:53:09.736 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:53:09.737 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:53:09.738 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:53:09.739 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:53:09.740 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:53:09.740 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:53:09.763 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:53:09.764 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:53:09.764 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:53:09.764 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:53:09.767 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:53:09.768 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:53:09.770 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:53:09.770 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:53:09.778 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:53:09.789 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:53:09.792 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:53:09.793 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:53:09.793 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:53:09.793 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:53:09.813 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:53:09.814 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:53:09.814 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:53:09.814 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:53:09.815 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:53:09.815 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:53:09.815 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:53:09.816 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:53:09.816 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:53:09.816 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:53:09.817 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:53:09.817 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:53:09.818 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:53:09.818 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:53:09.818 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:53:09.819 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:53:09.819 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:53:09.819 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:53:09.820 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:53:09.820 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:53:09.821 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:53:09.822 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:53:09.822 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:53:09.822 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:53:09.823 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:53:09.824 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:53:09.824 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:53:09.824 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:53:09.825 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:53:09.825 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:53:09.832 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:53:09.833 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:53:09.833 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:53:09.833 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:53:09.834 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:53:09.834 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:53:09.834 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:53:09.835 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:53:09.835 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:53:09.835 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:53:09.836 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:53:09.837 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:53:09.838 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:53:09.838 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:53:09.839 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:53:09.839 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:53:09.840 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:53:09.840 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:53:09.841 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:53:09.841 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:53:09.841 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:53:09.842 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:53:09.842 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:53:09.842 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:53:09.844 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:53:09.845 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:53:09.845 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:53:09.846 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:53:09.846 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:53:09.846 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:53:09.861 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:53:09.891 [C:/Users/Hp/Documents/Backup/Documents/Selenium Webdriver/SeleniumEclipseWorkspace/CrossBrowserTesting-2@2] INFO  c.b.config.BrowserStackConfig - INFO
+16:53:09.892 [C:/Users/Hp/Documents/Backup/Documents/Selenium Webdriver/SeleniumEclipseWorkspace/CrossBrowserTesting-0@0] INFO  c.b.config.BrowserStackConfig - INFO
+16:53:09.891 [C:/Users/Hp/Documents/Backup/Documents/Selenium Webdriver/SeleniumEclipseWorkspace/CrossBrowserTesting-1@1] INFO  c.b.config.BrowserStackConfig - INFO
+16:53:10.500 [SampleTestCase@1] ERROR c.b.DriverServiceTransformer - Session Retry Failed on SSL Error | nudgeLocal response Error - javassist.CannotCompileException: [source error] getName() not found in java.lang.String
+16:53:35.044 [main] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/aghatujitaxwuhfempu9v72kb5daozh25qndb35a to view build report, insights, and many more debugging information all at one place!
+
+16:53:35.046 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:53:35.163 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:53:35.274 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:53:35.307 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:53:35.324 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:53:35.334 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:53:35.346 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:53:35.464 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+16:53:35.464 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+16:58:51.533 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+16:58:51.564 [main] INFO  c.b.config.BrowserStackConfig - parallelsPerPlatform was not defined and has been set to 1 (Default)
+16:58:51.564 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+16:58:56.554 [main] INFO  c.b.config.BrowserStackConfig - INFO
+16:58:57.237 [SampleTestCase@1] ERROR c.b.DriverServiceTransformer - Session Retry Failed on SSL Error | nudgeLocal response Error - javassist.CannotCompileException: [source error] getName() not found in java.lang.String
+16:59:13.900 [main] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/hvnari8cw7bqlocgcra0n89ecsayrrgmwvh7d8jd to view build report, insights, and many more debugging information all at one place!
+
+16:59:13.907 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+16:59:13.907 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+17:00:00.145 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+17:00:00.172 [main] INFO  c.b.config.BrowserStackConfig - parallelsPerPlatform was not defined and has been set to 1 (Default)
+17:00:00.173 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+17:00:05.957 [main] INFO  c.b.config.BrowserStackConfig - INFO
+17:00:06.622 [SampleTestCase@2] ERROR c.b.DriverServiceTransformer - Session Retry Failed on SSL Error | nudgeLocal response Error - javassist.CannotCompileException: [source error] getName() not found in java.lang.String
+17:00:49.824 [main] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/jmwfqgfeaosbi1wtuvxqaxiii2yvzpgd67iircov to view build report, insights, and many more debugging information all at one place!
+
+17:00:49.831 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+17:00:49.831 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+17:03:15.462 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+17:03:15.489 [main] INFO  c.b.config.BrowserStackConfig - parallelsPerPlatform was not defined and has been set to 1 (Default)
+17:03:15.489 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+17:03:20.076 [main] INFO  c.b.config.BrowserStackConfig - INFO
+17:03:20.902 [SampleTestCase@1] ERROR c.b.DriverServiceTransformer - Session Retry Failed on SSL Error | nudgeLocal response Error - javassist.CannotCompileException: [source error] getName() not found in java.lang.String
+17:03:55.954 [main] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/haf8ts15rkh4i6ohe1soxwin4vnpbq2b4fixvnpt to view build report, insights, and many more debugging information all at one place!
+
+17:03:55.960 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+17:03:55.960 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+19:49:06.923 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+19:49:06.947 [main] INFO  c.b.config.BrowserStackConfig - parallelsPerPlatform was not defined and has been set to 1 (Default)
+19:49:06.948 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+19:49:11.847 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:49:11.851 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:49:11.853 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:49:11.853 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:49:11.854 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:49:11.854 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:49:11.854 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:49:11.854 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:49:11.855 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:49:11.855 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:49:11.855 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:49:11.855 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:49:11.856 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:49:11.856 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:49:11.856 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:49:11.856 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:49:11.866 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:49:11.866 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:49:11.866 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:49:11.867 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:49:11.869 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:49:11.869 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:49:11.869 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:49:11.869 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:49:11.874 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:49:11.884 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:49:11.885 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:49:11.886 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:49:11.886 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:49:11.886 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:49:11.900 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:49:11.900 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:49:11.901 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:49:11.901 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:49:11.901 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:49:11.902 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:49:11.902 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:49:11.902 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:49:11.903 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:49:11.903 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:49:11.903 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:49:11.903 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:49:11.904 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:49:11.904 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:49:11.904 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:49:11.904 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:49:11.905 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:49:11.905 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:49:11.905 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:49:11.906 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:49:11.906 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:49:11.906 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:49:11.906 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:49:11.906 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:49:11.907 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:49:11.908 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:49:11.908 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:49:11.908 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:49:11.908 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:49:11.909 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:49:11.914 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:49:11.914 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:49:11.915 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:49:11.915 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:49:11.915 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:49:11.915 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:49:11.916 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:49:11.916 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:49:11.916 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:49:11.917 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:49:11.917 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:49:11.917 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:49:11.917 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:49:11.918 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:49:11.918 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:49:11.919 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:49:11.919 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:49:11.919 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:49:11.920 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:49:11.920 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:49:11.920 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:49:11.920 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:49:11.920 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:49:11.921 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:49:11.921 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:49:11.922 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:49:11.922 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:49:11.922 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:49:11.923 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:49:11.923 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:49:11.936 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:49:11.960 [C:/Users/Hp/Documents/Backup/Documents/Selenium Webdriver/SeleniumEclipseWorkspace/CrossBrowserTesting-2@2] INFO  c.b.config.BrowserStackConfig - INFO
+19:49:11.960 [C:/Users/Hp/Documents/Backup/Documents/Selenium Webdriver/SeleniumEclipseWorkspace/CrossBrowserTesting-1@1] INFO  c.b.config.BrowserStackConfig - INFO
+19:49:11.960 [C:/Users/Hp/Documents/Backup/Documents/Selenium Webdriver/SeleniumEclipseWorkspace/CrossBrowserTesting-0@0] INFO  c.b.config.BrowserStackConfig - INFO
+19:49:12.505 [SampleTestCase@0] ERROR c.b.DriverServiceTransformer - Session Retry Failed on SSL Error | nudgeLocal response Error - javassist.CannotCompileException: [source error] getName() not found in java.lang.String
+19:49:50.635 [main] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/gmbw8y9itkhcjhlolalthvgjiltf4axktso2qodn to view build report, insights, and many more debugging information all at one place!
+
+19:49:50.636 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:49:50.711 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:49:50.895 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:49:50.929 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:49:50.959 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:49:50.987 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:49:51.003 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:49:51.208 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+19:49:51.209 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+19:54:14.374 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+19:54:14.394 [main] INFO  c.b.config.BrowserStackConfig - parallelsPerPlatform was not defined and has been set to 1 (Default)
+19:54:14.395 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+19:54:18.379 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:54:18.388 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:54:18.390 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:54:18.391 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:54:18.392 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:54:18.392 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:54:18.393 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:54:18.393 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:54:18.393 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:54:18.394 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:54:18.394 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:54:18.395 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:54:18.395 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:54:18.395 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:54:18.396 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:54:18.396 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:54:18.406 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:54:18.406 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:54:18.406 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:54:18.407 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:54:18.409 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:54:18.409 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:54:18.409 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:54:18.410 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:54:18.416 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:54:18.423 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:54:18.425 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:54:18.425 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:54:18.425 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:54:18.425 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:54:18.442 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:54:18.442 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:54:18.442 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:54:18.443 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:54:18.443 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:54:18.443 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:54:18.444 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:54:18.444 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:54:18.444 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:54:18.444 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:54:18.445 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:54:18.445 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:54:18.445 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:54:18.445 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:54:18.445 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:54:18.446 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:54:18.446 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:54:18.446 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:54:18.446 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:54:18.446 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:54:18.447 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:54:18.447 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:54:18.447 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:54:18.447 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:54:18.448 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:54:18.448 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:54:18.449 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:54:18.449 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:54:18.449 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:54:18.449 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:54:18.455 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:54:18.455 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:54:18.455 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:54:18.456 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:54:18.456 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:54:18.456 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:54:18.456 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:54:18.456 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:54:18.457 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:54:18.457 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:54:18.457 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:54:18.458 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:54:18.458 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:54:18.458 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:54:18.459 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:54:18.459 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:54:18.459 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:54:18.460 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:54:18.460 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:54:18.460 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:54:18.460 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:54:18.460 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:54:18.460 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:54:18.461 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:54:18.461 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:54:18.462 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:54:18.462 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:54:18.462 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:54:18.462 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:54:18.463 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:54:18.473 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:54:18.502 [C:/Users/Hp/Documents/Backup/Documents/Selenium Webdriver/SeleniumEclipseWorkspace/CrossBrowserTesting-2@2] INFO  c.b.config.BrowserStackConfig - INFO
+19:54:18.502 [C:/Users/Hp/Documents/Backup/Documents/Selenium Webdriver/SeleniumEclipseWorkspace/CrossBrowserTesting-1@1] INFO  c.b.config.BrowserStackConfig - INFO
+19:54:18.503 [C:/Users/Hp/Documents/Backup/Documents/Selenium Webdriver/SeleniumEclipseWorkspace/CrossBrowserTesting-0@0] INFO  c.b.config.BrowserStackConfig - INFO
+19:54:19.042 [SampleTestCase@0] ERROR c.b.DriverServiceTransformer - Session Retry Failed on SSL Error | nudgeLocal response Error - javassist.CannotCompileException: [source error] getName() not found in java.lang.String
+19:54:40.573 [main] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/jdkmnkpq73v2k1u7tuwxnmb8m7ct9ntcdvij1bsk to view build report, insights, and many more debugging information all at one place!
+
+19:54:40.574 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:54:40.650 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:54:40.719 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:54:40.720 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:54:40.731 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:54:40.740 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:54:40.748 [main] INFO  c.b.config.BrowserStackConfig - INFO
+19:54:40.812 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+19:54:40.813 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN

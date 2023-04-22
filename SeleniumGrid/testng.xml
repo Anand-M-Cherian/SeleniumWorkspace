@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<!-- Ensure to give parallel attribute when using Selenium Grid -->
+
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" parallel="classes" thread-count="5" name="Test">
+        <classes>
+            <class name="GoogleTest"></class>
+        </classes>
+    </test>
+</suite>

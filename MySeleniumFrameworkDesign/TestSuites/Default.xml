@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite parallel="tests" name="Shopping Website Automation Practice - Default">
+
+    <!-- One Test for each java class -->
+    <!-- Make sure to group test methods / cases into java classes based on logic -->
+
+    <!-- parallel = "tests" -> run one method from each test at a single time -->
+    <!-- thread-count = "5" -> maximum number of methods that can run from a test at a time -->
+    
+    <!-- We should tell TestNG that we are using Listeners for creating ExtentReports HTML report -->
+
+    <!-- Concurrency Issue: While running tests in parallel, multiple test cases are trying to access
+         ExtentTest test variable. Hence, when TC actually fails and executes test.fail(), it might actually be
+         failing some other TC ExtentTest test variable. This problem will not be there if we run in series.
+         But that in turn increases execution time.
+
+         Solution: ThreadLocal -->
+    
+    <listeners>
+        <listener class-name="org.TestUtilities.ExtentReportsAndListenersAndRetry"/>
+    </listeners>
+    
+    <test thread-count="5" verbose="2"
+          name="End To End Functionality Tests">
+        <classes>
+            <class name="org.FrameworkFromScratch.EndToEndTests">
+                <methods>
+                    <include name="submitOrderTest"/>
+                    <include name="orderPresentInHistoryTest"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+
+    <test thread-count="5" verbose="2"
+          name="Error Validation Tests">
+        <classes>
+            <class name="org.FrameworkFromScratch.ErrorValidationTests">
+                <methods>
+                    <include name="invalidLoginTest"/>
+                    <include name="invalidProductTest"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+
+</suite>

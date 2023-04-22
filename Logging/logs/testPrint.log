@@ -1,0 +1,4 @@
+13:25:57.422 [main] DEBUG com.Logging.Alpha.AlphaDemo - I am now debugging
+13:25:57.428 [main] INFO  com.Logging.Alpha.AlphaDemo - For you information
+13:25:57.428 [main] ERROR com.Logging.Alpha.AlphaDemo - Not as expected
+13:25:57.428 [main] FATAL com.Logging.Alpha.AlphaDemo - Critical error

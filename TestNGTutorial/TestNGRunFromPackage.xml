@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<!--Run all test cases in a package: useful for regression testing-->
+
+<suite name="Learning TestNG">
+
+    <test name="Basics of TestNG">
+
+        <packages>
+            <package name="com.Basics"></package>
+        </packages>
+
+    </test>
+</suite>
