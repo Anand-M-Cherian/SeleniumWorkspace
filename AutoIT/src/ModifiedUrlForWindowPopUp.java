@@ -5,7 +5,7 @@ import org.openqa.selenium.chrome.ChromeOptions;
 public class ModifiedUrlForWindowPopUp {
     public static void main(String[] args) {
 
-        System.setProperty("webdriver.chrome.driver", "C:\\Users\\Hp\\WebDrivers\\chromedriver.exe");
+        //System.setProperty("webdriver.chrome.driver", "C:\\Users\\Hp\\WebDrivers\\chromedriver.exe");
 
         ChromeOptions chromeOptions = new ChromeOptions();
         chromeOptions.addArguments("--remote-allow-origins=*");

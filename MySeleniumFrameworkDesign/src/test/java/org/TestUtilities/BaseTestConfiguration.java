@@ -108,6 +108,7 @@ public class BaseTestConfiguration {
     }
 
     // TestNG will scan current class and all parent classes to check for any @Before and @After annotations
+    // Hence, we add the all the boilerplate code into the parent class (base test)
     @BeforeMethod (alwaysRun = true)
     public void launchApplication() throws IOException {
         initializeDriver();
