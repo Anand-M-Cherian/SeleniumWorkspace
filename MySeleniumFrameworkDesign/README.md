@@ -1,7 +1,7 @@
 # My Test Framework Design
 
-Web Application under test: 
-[https://rahulshettyacademy.com/client/auth/login]
+Web Application under test: Demo Shopping Website
+[https://rahulshettyacademy.com/client/]
 
 ## Framework Architecture:
 ### Locators for the webpage
