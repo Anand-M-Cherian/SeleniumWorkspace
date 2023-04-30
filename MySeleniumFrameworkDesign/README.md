@@ -35,6 +35,10 @@ Web Application under test: Demo Shopping Website
 3. The test cases mentioned in the test NG XML will be triggered.
 4. Page Objects and PageObjectParent will be accessed while executing test cases.
 5. Test Data and Test Congfigurations will be taken from JSON and .properties file
-6. Reporting and screenshot is taken care by Listeners and Extent HTML reports
+6. Reporting and screens
+hot is taken care by Listeners and Extent HTML reports
 
 **NOTE: ** Cucumber wrapper is integrated to drive the test through BDD framework. Feature files containing the step defenitions map the functionality to test execution script.
+
+
+![Selenium Design Patterns-2](https://user-images.githubusercontent.com/63868951/235359728-4cff45c0-3250-4ca4-adcb-57a5196396f8.jpg)
