@@ -11,6 +11,7 @@ Web Application under test: Demo Shopping Website
 ### Test Cases
 1. BaseTestConfiguration: Contains all the reusable code like: 
    - initializing and closing driver
+   - setting wait configurations
    - @BeforeMethod and @AfterMethod TestNG blocks
    - Test data and configurations:
      - Uses a JSON parser to get the test login credentials
